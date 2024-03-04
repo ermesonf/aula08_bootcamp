@@ -6,6 +6,8 @@ authors = ["ermesonf <ermeson.freitas@hotmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pandera = "^0.18.0"
+pandas = "^2.2.1"
 
 [tool.poetry.dev-dependencies]
 
